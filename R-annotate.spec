@@ -2,13 +2,13 @@
 
 Summary:	Graphics related functions for Bioconductor
 Name:		R-%{packname}
-Version:	1.36.0
+Version:	1.40.0
 Release:	1
 License:	Artistic 2.0
 Group:		Applications/Engineering
 Source0:	http://bioconductor.org/packages/release/bioc/src/contrib/%{packname}_%{version}.tar.gz
-# Source0-md5:	d10a9c0482613386d825d1e1e1655260
-URL:		http://bioconductor.org/packages/release/bioc/html/%{packname}.html
+# Source0-md5:	3bad7d1d9e213064f23c54d0b60eb82c
+URL:		http://bioconductor.org/packages/release/bioc/html/annotate.html
 BuildRequires:	R
 BuildRequires:	R-AnnotationDbi
 BuildRequires:	R-cran-xtable
